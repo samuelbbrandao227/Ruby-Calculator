@@ -28,4 +28,4 @@ Enter the first number: 10
 Enter the operator: +
 Enter the second number: 5
 Result: 15
-``
+```
